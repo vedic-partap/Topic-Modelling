@@ -33,6 +33,6 @@ In Python we can use Genism or Sklearn for these algorithm. We have used Sklearn
 
 
 
-## Output##
+## Output ##
 
 To see teh output see output_lda.txt and output_nmf.txt
